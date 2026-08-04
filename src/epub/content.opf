@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008124420</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A boy in Stockholm becomes progressively more disillusioned with life as he grows up.</dc:abstract>
+		<meta property="schema:abstract">A boy in Stockholm becomes progressively more disillusioned with life as he grows up.</meta>
 		<dc:description>
 			&lt;p&gt;Narrated in a collection of vignettes, the start of Martin Birck’s young life in Stockholm is filled with the joys and frustrations of children everywhere. As he ages, his idealism falls away in a series of small shocks: stories of local murders told by an older friend, having to hold his own in school, an encroaching disbelief in the Christian faith his mother has instilled in him. These, along with his perceived trajectory, lead to the shattering revelation: “So this is life.”&lt;/p&gt;
 			&lt;p&gt;Written in 1901, &lt;i&gt;Martin Birck’s Youth&lt;/i&gt; is split into three parts, covering Martin’s experiences as a child, a late teenager, and a young man. It seems at least partially based on &lt;a href="https://standardebooks.org/ebooks/hjalmar-soderberg"&gt;Hjalmar Söderberg’s&lt;/a&gt; own life, and shares themes with his other work, including a deep interest in the psychology of his characters and a pervasive feeling of melancholy. These days it’s seen as one of Söderberg’s major works, alongside &lt;i&gt;Doctor Glas&lt;/i&gt; and &lt;i&gt;The Serious Game&lt;/i&gt;.&lt;/p&gt;
